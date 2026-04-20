@@ -7,11 +7,11 @@ This project demonstrates an AI-powered chatbot built using OpenAI API, focusing
 - Prompt engineering for dynamic queries
 - API integration (OpenAI)
 - Basic rate limiting & error handling
-- Clean UI integration (React/Vue)
+- Clean UI integration (React)
 
 ## Tech Stack
-- React.js / Vue.js
-- Node.js (optional backend)
+- React.js
+- Node.js
 - OpenAI API
 - Tailwind CSS
 
